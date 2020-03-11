@@ -1,0 +1,6 @@
+[submodule "ML-Recipes"]
+	path = ML-Recipes
+	url = https://github.com/rougier/ML-Recipes
+[submodule "Machine-Learning-Recipes"]
+	path = Machine-Learning-Recipes
+	url = https://github.com/karlvandesman/Machine-Learning-Recipes
